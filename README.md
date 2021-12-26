@@ -1,7 +1,7 @@
 # landing-page-1
 This is a project for The Odin Project. 
 <br>
-The instructions were to create a landing page using HTML and CSS by following a landing page template.
+The instructions were to create a landing page using HTML and CSS by following a landing page template, provided in PDF format.
 <br>
 - Left: My project
 - Right: The template
