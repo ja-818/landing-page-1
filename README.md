@@ -8,3 +8,6 @@ The instructions were to create a landing page using HTML and CSS by following a
 <br>
 
 ![image](https://user-images.githubusercontent.com/95070226/147396804-fa9fb396-541e-400c-9b47-39a1f377ec4a.png)
+
+
+See the page live here: https://ja-818.github.io/landing-page-1/
