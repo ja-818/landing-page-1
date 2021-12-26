@@ -1,5 +1,5 @@
 # landing-page-1
-This is a project for The Odin Project. It consists on copying a landing page template using HTML and CSS.
+This is a project for The Odin Project. It consists on creating a landing page using HTML and CSS following a landing page template.
 <br>
 - Left: My project
 - Right: The template
